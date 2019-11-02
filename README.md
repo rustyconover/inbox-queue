@@ -23,3 +23,11 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 ## In progress:
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51rGoPuGcSL._SX379_BO1,204,203,200_.jpg" width="100px"> [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/ref=sr_1_1?crid=349AS4FB79YKS&keywords=time+series+oreilly&qid=1572714244&sprefix=time+series+or%2Cstripbooks%2C165&sr=8-1)
+
+
+### Percolating ideas
+
+- Line Wrapping and Contrast Detection 
+  - https://github.com/xdamman/js-line-wrap-detector
+  - https://developer.mozilla.org/en-US/docs/Web/API/Element/getClientRects
+  
