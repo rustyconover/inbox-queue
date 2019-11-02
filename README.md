@@ -12,9 +12,7 @@ A queue of things that are pending further time to read and understand.
 - [ ] [Transformers from Scratch](http://www.peterbloem.nl/blog/transformers)
 
 - [ ] [Learning to Predict Without Looking Ahead:
-World Models Without Forward Prediction](https://learningtopredict.github.io)
-
-I think world models are fascinating.
+World Models Without Forward Prediction](https://learningtopredict.github.io) - I think world models are fascinating.
  
 ## Recently read (still pending exercises):
 
