@@ -2,7 +2,7 @@
 
 A queue of things that are pending further time to read and understand.
 
-Pending:
+## Pending:
 
 - [ ] [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 
@@ -10,9 +10,8 @@ Pending:
 )
 
 - [ ] [Transformers from Scratch](http://www.peterbloem.nl/blog/transformers)
-
-
-Recently read (still pending exercises):
+ 
+## Recently read (still pending exercises):
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/416KapTtFjL._SX379_BO1,204,203,200_.jpg" width="100px" style="float:left"/> [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947)
 
