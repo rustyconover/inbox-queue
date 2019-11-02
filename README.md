@@ -1,4 +1,4 @@
-# mental-inbox
+# Rusty's Mental Inbox
 
 A queue of things that are pending further time to read and understand.
 
