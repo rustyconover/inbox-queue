@@ -30,4 +30,5 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 - Line Wrapping and Contrast Detection 
   - https://github.com/xdamman/js-line-wrap-detector
   - https://developer.mozilla.org/en-US/docs/Web/API/Element/getClientRects
+  - https://jsfiddle.net/abrady0/ggr5mu7o/ - The use of ranges to determine which word was clicked, may be useful to determine which words are contained in a bounding box.
   
