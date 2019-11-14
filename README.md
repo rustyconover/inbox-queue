@@ -33,6 +33,8 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://jsfiddle.net/abrady0/ggr5mu7o/ - The use of ranges to determine which word was clicked, may be useful to determine which words are contained in a bounding box.
 - [https://github.com/huseinzol05/NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 
+- [Gen](https://probcomp.github.io/Gen/tutorials.html)
+
 ### Reviewed Papers and links.
 
   - [MM2RTB: Bringing Multimedia Metrics to Real-Time Bidding](https://arxiv.org/pdf/1708.00255.pdf)
