@@ -53,6 +53,10 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - [https://github.com/remega/Sal-DCNN](https://github.com/remega/Sal-DCNN)
   - [SID4VAM](https://arxiv.org/pdf/1910.13066.pdf)
   
+#### Image Memorability
+
+  - [AMNet: Memorability Estimation with Attention](https://github.com/ok1zjf/AMNet)
+
 #### Email Actions
 
   - [GMail Email Actions](https://developers.google.com/gmail/markup/actions/actions-overview)
