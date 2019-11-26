@@ -52,6 +52,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
   - [https://github.com/remega/Sal-DCNN](https://github.com/remega/Sal-DCNN)
   - [SID4VAM](https://arxiv.org/pdf/1910.13066.pdf)
+  - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://github.com/alexanderkroner/saliency)
   
 #### Image Memorability
 
