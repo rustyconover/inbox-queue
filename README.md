@@ -56,6 +56,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Image Memorability
 
   - [AMNet: Memorability Estimation with Attention](https://github.com/ok1zjf/AMNet)
+  - [https://github.com/stevemar/powerai-image-memorability](https://github.com/stevemar/powerai-image-memorability)
 
 #### Email Actions
 
