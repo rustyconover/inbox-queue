@@ -59,7 +59,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - [AMNet: Memorability Estimation with Attention](https://github.com/ok1zjf/AMNet)
   - [https://github.com/stevemar/powerai-image-memorability](https://github.com/stevemar/powerai-image-memorability)
   - [GANalyze: Toward Visual Definitions of Cognitive Image Properties](https://arxiv.org/pdf/1906.10112.pdf)
-     - The paper that applies GANs to various hard to define qualities such as an image's memorability or aesthetics or emotional valience. Unfortunetely, the GANs are only trained on ImageNet classes so it is not yet possible to apply them to the full spectrum of imagery in the real world.  But by applying the GAN to GAN generated imagery there is a way to start to understand how to increase or decrease the hard to quantity properties such as memorability.
+     - This paper applies GANs to various hard to define qualities such as an image's memorability or aesthetics or emotional valience. Unfortunetely, the GANs are only trained on ImageNet classes so it is not yet possible to apply them to the full spectrum of imagery in the real world.  But by applying the GAN to GAN generated imagery there is a way to start to understand how to increase or decrease the hard to quantity properties such as memorability.
      
 #### Email Actions
 
