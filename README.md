@@ -68,3 +68,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Emotion Detection
   
   - [Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network](https://github.com/sherleens/EmotionDistributionLearning)
+
+#### Cool Notebooks
+
+  - https://observablehq.com/@mourner/simple-rectangle-packing?collection=@mourner/algorithms
