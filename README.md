@@ -72,3 +72,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Cool Notebooks
 
   - https://observablehq.com/@mourner/simple-rectangle-packing?collection=@mourner/algorithms
+  - https://vega.github.io/vega-lite/examples/
