@@ -73,3 +73,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
   - https://observablehq.com/@mourner/simple-rectangle-packing?collection=@mourner/algorithms
   - https://vega.github.io/vega-lite/examples/
+
+#### Perfect Hash Functions
+
+  - https://10xgenomics.github.io/rust-boomphf/master/boomphf/index.html
