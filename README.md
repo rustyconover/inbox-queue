@@ -77,3 +77,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Perfect Hash Functions
 
   - https://10xgenomics.github.io/rust-boomphf/master/boomphf/index.html
+  - https://towardsdatascience.com/turn-amazon-s3-into-a-spatio-temporal-database-40f1a210e943
