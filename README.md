@@ -80,3 +80,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://towardsdatascience.com/turn-amazon-s3-into-a-spatio-temporal-database-40f1a210e943
 
   - https://github.com/awslabs/s3-managed-download-js
+  - https://www.indiehackers.com/article/we-wasted-50k-on-google-ads-so-you-dont-have-to-355a425b27
