@@ -81,3 +81,8 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
   - https://github.com/awslabs/s3-managed-download-js
   - https://www.indiehackers.com/article/we-wasted-50k-on-google-ads-so-you-dont-have-to-355a425b27
+
+#### RTree in SQLite
+
+  - http://sqlite.1065341.n5.nabble.com/R-Tree-module-and-double-precision-td61806.html 
+  
