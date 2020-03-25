@@ -86,3 +86,5 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
   - http://sqlite.1065341.n5.nabble.com/R-Tree-module-and-double-precision-td61806.html 
   
+#### Hilbert Curves
+  - https://www.reddit.com/r/rust/comments/dx2k2q/hilbert_curve_transformation_crate_for/
