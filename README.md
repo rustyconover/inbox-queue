@@ -92,3 +92,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Weather Grids
   - https://www.weather.gov/mdl/digitalforecastservices_home
   - https://www.nws.noaa.gov/mdl/synop/gmos/gmosgrib2_wxinfo.html
+  - https://leafletjs.com/examples/choropleth/
