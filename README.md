@@ -96,6 +96,8 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://www.weather.gov/mdl/nbm_home
   - https://www.weather.gov/mdl/grib_design
   - https://nomads.ncep.noaa.gov/
+  - http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/cgi-bin/hrrr_download.cgi?model=hrrr&field=sfc&date=2020-02-11&link2=metadata
   
 #### Air Travel Delays
   - https://transtats.bts.gov/DL_SelectFields.asp
+
