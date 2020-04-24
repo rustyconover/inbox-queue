@@ -94,3 +94,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://www.nws.noaa.gov/mdl/synop/gmos/gmosgrib2_wxinfo.html
   - https://leafletjs.com/examples/choropleth/
   - https://www.weather.gov/mdl/nbm_home
+  - https://www.weather.gov/mdl/grib_design
