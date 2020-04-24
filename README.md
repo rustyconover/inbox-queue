@@ -95,6 +95,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://leafletjs.com/examples/choropleth/
   - https://www.weather.gov/mdl/nbm_home
   - https://www.weather.gov/mdl/grib_design
+  - https://nomads.ncep.noaa.gov/
   
 #### Air Travel Delays
   - https://transtats.bts.gov/DL_SelectFields.asp
