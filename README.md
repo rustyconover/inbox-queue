@@ -105,3 +105,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Leaflet stuff
   - https://github.com/socib/Leaflet.TimeDimension
   
+#### Hexagon based convolutions
+  - https://github.com/ai4iacts/hexagdly
+  
+  
