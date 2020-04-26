@@ -88,6 +88,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 #### Hilbert Curves
   - https://www.reddit.com/r/rust/comments/dx2k2q/hilbert_curve_transformation_crate_for/
+  - https://github.com/davidmoten/hilbert-curve - interesting implementation of range querying using Hilbert curves.
 
 #### Weather Grids
   - https://www.weather.gov/mdl/digitalforecastservices_home
