@@ -102,3 +102,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Air Travel Delays
   - https://transtats.bts.gov/DL_SelectFields.asp
 
+#### Leaflet stuff
+  - https://github.com/socib/Leaflet.TimeDimension
+  
