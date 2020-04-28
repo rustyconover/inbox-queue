@@ -109,4 +109,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - https://github.com/ai4iacts/hexagdly
   - H3 Encoder for Tensorflow v1: https://github.com/uber/ludwig/blob/a594ab5fd93337cbae3bdc4b8719509c1739e129/ludwig/models/modules/h3_encoders.py
   
-  
+#### Healpix - interesting pixelization on the sphere
+
+  - https://healpix.sourceforge.io/html/csub.htm
