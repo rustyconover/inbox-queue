@@ -112,3 +112,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 #### Healpix - interesting pixelization on the sphere
 
   - https://healpix.sourceforge.io/html/csub.htm
+  - https://healpix.sourceforge.io/html/intro_Geometric_Algebraic_Propert.htm
