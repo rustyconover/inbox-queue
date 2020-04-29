@@ -113,3 +113,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
   - https://healpix.sourceforge.io/html/csub.htm
   - https://healpix.sourceforge.io/html/intro_Geometric_Algebraic_Propert.htm
+
+### Hilbert Curve Querying
+  
+  - https://github.com/davidmoten/hilbert-curve/blob/master/src/main/java/org/davidmoten/hilbert/SmallHilbertCurve.java#L188
