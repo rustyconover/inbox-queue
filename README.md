@@ -118,3 +118,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
   - https://github.com/davidmoten/hilbert-curve/blob/master/src/main/java/org/davidmoten/hilbert/SmallHilbertCurve.java#L188
   - https://github.com/davidmoten/sparse-hilbert-index/tree/master/src/main/java/com/github/davidmoten/shi
+  - https://stackoverflow.com/questions/53472433/range-search-with-hilbert-curve-index
