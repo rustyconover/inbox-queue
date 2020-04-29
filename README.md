@@ -117,3 +117,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 ### Hilbert Curve Querying
   
   - https://github.com/davidmoten/hilbert-curve/blob/master/src/main/java/org/davidmoten/hilbert/SmallHilbertCurve.java#L188
+  - https://github.com/davidmoten/sparse-hilbert-index/tree/master/src/main/java/com/github/davidmoten/shi
