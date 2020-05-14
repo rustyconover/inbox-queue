@@ -124,3 +124,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 ### Train Delays
 
   - https://link.springer.com/article/10.1007/s40534-019-0188-z
+  
+### KL Divergence
+  - https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a
+  
