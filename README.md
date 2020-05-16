@@ -128,3 +128,5 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 ### KL Divergence
   - https://medium.com/@cotra.marko/making-sense-of-the-kullback-leibler-kl-divergence-b0d57ee10e0a
   
+### Probability Distributions
+  - https://medium.com/hal24k-techblog/a-guide-to-generating-probability-distributions-with-neural-networks-ffc4efacd6a4
