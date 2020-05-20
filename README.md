@@ -130,3 +130,10 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 ### Probability Distributions
   - https://medium.com/hal24k-techblog/a-guide-to-generating-probability-distributions-with-neural-networks-ffc4efacd6a4
+
+### Imbalanced Learning
+  - https://imbalanced-learn.readthedocs.io/en/stable/
+  - https://github.com/tgsmith61591/smrt
+  
+### Kaggle Writeup
+  - https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629
