@@ -141,3 +141,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 ### HRRR Grib2 Files
   - http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/HRRR_archive/hrrr_sfc_table_f02-f18.html
+  - https://rapidrefresh.noaa.gov/RAP_var_diagnosis.html
