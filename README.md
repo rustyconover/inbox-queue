@@ -138,3 +138,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 ### Kaggle Writeup
   - https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629
   - https://docs.scipy.org/doc/scipy/reference/generated/scipy.special.erfinv.html
+  
+### HRRR Grib2 Files
+  - http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/HRRR_archive/hrrr_sfc_table_f02-f18.html
