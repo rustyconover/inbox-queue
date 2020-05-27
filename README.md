@@ -145,3 +145,8 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
 ### Feature Selection
   - http://courses.cs.tamu.edu/rgutier/cs790_w02/l16.pdf
+
+### Super-Convergence
+  - Super-convergence in Tensorflow 2 with the 1Cycle Policy
+  - https://www.avanwyk.com/tensorflow-2-super-convergence-with-the-1cycle-policy/amp/
+  - https://www.google.com/amp/s/www.avanwyk.com/tensorflow-2-super-convergence-with-the-1cycle-policy/amp/
