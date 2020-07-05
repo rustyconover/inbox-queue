@@ -150,3 +150,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   - Super-convergence in Tensorflow 2 with the 1Cycle Policy
   - https://www.avanwyk.com/tensorflow-2-super-convergence-with-the-1cycle-policy/amp/
   - https://www.google.com/amp/s/www.avanwyk.com/tensorflow-2-super-convergence-with-the-1cycle-policy/amp/
+ 
+### Shopify App Proxy
+  - https://shopify.dev/tutorials/display-data-on-an-online-store-with-an-application-proxy-app-extension
