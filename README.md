@@ -153,3 +153,4 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
  
 ### Shopify App Proxy
   - https://shopify.dev/tutorials/display-data-on-an-online-store-with-an-application-proxy-app-extension
+  - https://freakdesign.com.au/blogs/news/76831303-use-your-own-domain-instead-of-shopify-cdn-in-image-urls
