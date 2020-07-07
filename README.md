@@ -157,3 +157,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
 ### Firehose
   - https://docs.aws.amazon.com/athena/latest/ug/partition-projection-kinesis-firehose-example.html
+  
+### Javascript Weak-Value-Map 
+  - https://github.com/devsnek/weak-value-map
