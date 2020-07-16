@@ -160,3 +160,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 ### Javascript Weak-Value-Map 
   - https://github.com/devsnek/weak-value-map
+  
+### Python module authorship
+  - https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
