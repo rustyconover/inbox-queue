@@ -163,3 +163,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 ### Python module authorship
   - https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
+  
+### Nonlinear Dynamics
+  - https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz
