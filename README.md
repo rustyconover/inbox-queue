@@ -166,3 +166,7 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
   
 ### Nonlinear Dynamics
   - https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz
+
+
+### WebPPL
+  - https://probmods.org/
