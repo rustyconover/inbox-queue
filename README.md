@@ -172,3 +172,6 @@ World Models Without Forward Prediction](https://learningtopredict.github.io) - 
 
 ### Floating Point
   - https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+  
+### Time Series Models
+  - https://medium.com/auquan
